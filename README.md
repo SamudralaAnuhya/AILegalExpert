@@ -1,4 +1,8 @@
 Overview
+Legal professionals, especially those handling investment contracts and corporate regulations, often struggle with retrieving precise legal references from lengthy documents. Traditional search methods may fail when dealing with ambiguous queries, incomplete clauses, or legal phrasing variations. To address this, we leverage advanced RAG techniques that go beyond keyword matching—ensuring that even when direct answers are not explicitly present, the system provides contextually relevant legal insights.
+
+With daily legal transactions occurring across investment firms, corporate governance, and contract negotiations, having an AI assistant that can function like a paralegal—retrieving, summarizing, and refining legal interpretations—is critical. Our Legal RAG Assistant integrates semantic chunking, speculative query expansion, and human-in-the-loop verification, ensuring reliable, context-aware responses tailored to legal professionals and compliance officers.
+
 The Legal RAG Assistant is an advanced document analysis tool designed specifically for legal documents. It combines state-of-the-art Retrieval-Augmented Generation techniques with an agentic workflow to provide accurate, context-aware answers to legal questions. The assistant can process various document formats (PDF, DOCX, TXT, and images) and uses semantic understanding to generate reliable responses based on document content.
 Features
 
