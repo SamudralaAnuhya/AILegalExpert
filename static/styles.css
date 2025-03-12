@@ -1,0 +1,57 @@
+/* Global Chat Styles */
+.stChatMessage, .stChatMessage p {
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Response Box */
+.response-box {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 12px;
+    background-color: #f9f9f9;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Confidence Indicator */
+.confidence-meter {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.confidence-bar {
+    height: 8px;
+    background-color: #e0e0e0;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
+.confidence-level {
+    height: 100%;
+    border-radius: 4px;
+}
+
+.confidence-high {
+    background-color: #4CAF50;
+}
+
+.confidence-medium {
+    background-color: #FFC107;
+}
+
+.confidence-low {
+    background-color: #F44336;
+}
+
+/* Disclaimer */
+.legal-disclaimer {
+    font-size: 12px;
+    color: #666;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+    margin-top: 20px;
+}
