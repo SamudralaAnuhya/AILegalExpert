@@ -28,7 +28,7 @@ Human-in-the-loop feedback for low-confidence responses
 
 Installation
 bashCopy# Clone the repository
-git clone https://github.com/yourusername/legal-rag-assistant.git
+git clone https://github.com/SamudralaAnuhya/AILegalExpert.git
 cd legal-rag-assistant
 
 # Create a virtual environment
